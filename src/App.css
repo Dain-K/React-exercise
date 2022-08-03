@@ -1,0 +1,14 @@
+/* Login.js */
+body{
+  background-color: #ddd;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+.Login-container {
+
+}
+.text_area{
+  align-items: center;
+  width: 100%;
+}
