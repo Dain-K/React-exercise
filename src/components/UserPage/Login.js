@@ -31,7 +31,7 @@ function Login() {
  
     return(
         <div className='Login-container'>
-            <h4>로그인</h4>
+            <h4 className='title'>로그인</h4>
             <form>
                 <div className='text_area'>
                     <input 
